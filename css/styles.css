@@ -9,6 +9,7 @@ body {
 .bottom-cloud {
     position: absolute;
     left: 250px;
+    width: 150px;
 }
 
 .bottom-container {
@@ -151,4 +152,5 @@ p {
     position: absolute;
     right: 25%;
     top: 9.8%;
+    width: 150px;
 }
